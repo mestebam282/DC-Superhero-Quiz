@@ -1,0 +1,46 @@
+body{ background-image: url("https://www.dccomics.com/sites/default/files/imce/2020/03-MAR/DC_BG_GothamCity01_5e83e343146ef2.30262508.jpg");
+   text-align: center;
+    background-repeat: no-repeat;
+    background-size: 150%;
+  
+}
+
+h1 {
+   color: white;
+}
+h2 {
+   color: white;
+}
+
+p {font-weight: bold;
+color: white;
+    
+}
+
+.counter {
+    font-weight: bold;
+    color: white;
+}
+img { 
+    width: 460px;
+    height: 250px;
+    display: block;
+    margin: auto;
+}
+
+.scale {
+    width: 130px;
+}
+.fear {
+    width: 430px;
+}
+.ideal {
+    width: 175px;
+}
+.describe {
+    width: 130px;
+}
+.results {
+color: white;
+}
+ 
